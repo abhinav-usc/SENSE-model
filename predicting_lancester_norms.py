@@ -2218,11 +2218,11 @@ torch.save(data, '/content/drive/My Drive/Lancaster/cls_tokens_roberta.pt')
 
 """## Creating Glove-Lancaster Dataset"""
 
-!wget http://nlp.stanford.edu/data/glove.6B.zip
+# !wget http://nlp.stanford.edu/data/glove.6B.zip
 
-!unzip glove*.zip.1
-!ls
-!pwd
+# !unzip glove*.zip.1
+# !ls
+# !pwd
 
 glove_embeddings_index = {}
 f = open('glove.6B.100d.txt', encoding='utf-8')
