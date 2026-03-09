@@ -7,3 +7,5 @@ The code analyzes 40,000 phrases across 11 modalities and builds SENSE (Sensorim
 
 This file creates pseudo words to test the SENSE model with and compare to human study data. 
 
+Project Webpage: https://abhinavgupta.dev/sense
+
