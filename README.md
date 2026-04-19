@@ -6,6 +6,7 @@ The code analyzes 40,000 phrases across 11 modalities and builds SENSE (Sensorim
 # Pseudoword Creation and Data analysis
 
 This file creates pseudo words to test the SENSE model with and compare to human study data. 
+Survey can be found here: https://usc.qualtrics.com/jfe/form/SV_23kbjCHFdR8mYHY
 
 Project Webpage: https://abhinavgupta.dev/sense
 
